@@ -14,7 +14,7 @@ var appController =(function(){
     
     var ctrlAddItem = function(){
 
-        console.log("darlaa")
+        console.log("darlaaaa")
     }
 
 
